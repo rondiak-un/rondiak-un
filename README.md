@@ -5,6 +5,9 @@
 - I’m currently learning: KOTLIN/ANDROID STUDIO
 - Pronouns:
 - Fun fact:
+## mail - vinyloleg228@gmail.com
+## phone - +380680272592
+## tg - @DamonenUn
 
 
 
