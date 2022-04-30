@@ -3,7 +3,7 @@
 // - I’m currently learning: KOTLIN/ANDROID STUDIO
  - Pronouns:
  - Fun fact:
- - Gloly Ukraine 🟡 🇺🇦 🔵 //
+// - Gloly Ukraine 🟡 🇺🇦 🔵 
 
 
 
