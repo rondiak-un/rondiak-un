@@ -1,9 +1,9 @@
 ### My hello 👋
 
 // - I’m currently learning: KOTLIN/ANDROID STUDIO
-- Pronouns:
-- Fun fact:
-- Gloly Ukraine 🟡 🇺🇦 🔵 //
+ - Pronouns:
+ - Fun fact:
+ - Gloly Ukraine 🟡 🇺🇦 🔵 //
 
 
 
