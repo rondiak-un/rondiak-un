@@ -3,7 +3,6 @@
 
 // - Gloly Ukraine 🟡 🇺🇦 🔵 
 - I’m currently learning: KOTLIN/ANDROID STUDIO
-- Pronouns:
 - Fun fact: You say "O" I will answer "Oleh is cool guy really"
 ## mail - vinyloleg228@gmail.com
 ## phone - +380680272592
